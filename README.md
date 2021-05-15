@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **24kcsplus/24kcsplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#关于
+![24k' github stats](https://github-readme-stats.vercel.app/api?username=24kcsplus&count_private=true)
+
+### 你好 👋
+这里是24k，又名Jobs
+
+编程菜鸟一只
+
+- 🇨🇳 来自中国
+- ⌨️ C# 学习中
+- ⌨️ 备战中考中
+- ⌨️ 日本語を勉強します。
+
+主页：在建
+联系方式：见左侧
