@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#关于
+# 关于
 ![24k' github stats](https://github-readme-stats.vercel.app/api?username=24kcsplus&count_private=true)
 
 ### 你好 👋
