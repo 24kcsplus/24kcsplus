@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - ⌨️ 备战中考中
 - ⌨️ 日本語を勉強します。
 
-主页：![24k的小站](https://24kcsplus.github.io/)
+主页：[24k的小站](https://24kcsplus.github.io/)
 
 联系方式：见左侧
